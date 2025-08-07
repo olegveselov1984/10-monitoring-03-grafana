@@ -10,6 +10,9 @@
 1. Подключите поднятый вами prometheus, как источник данных.
 1. Решение домашнего задания — скриншот веб-интерфейса grafana со списком подключенных Datasource.
 
+   <img width="1530" height="683" alt="image" src="https://github.com/user-attachments/assets/fcf05fdb-c894-41c1-a645-b89e74f9270c" />
+
+
 ## Задание 2
 
 Изучите самостоятельно ресурсы:
