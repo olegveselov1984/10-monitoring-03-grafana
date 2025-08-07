@@ -56,10 +56,17 @@ node_filesystem_free_bytes{fstype="ext4",instance="nodeexporter:9100",job="nodee
 1. Создайте для каждой Dashboard подходящее правило alert — можно обратиться к первой лекции в блоке «Мониторинг».
 1. В качестве решения задания приведите скриншот вашей итоговой Dashboard.
 
+<img width="1715" height="889" alt="image" src="https://github.com/user-attachments/assets/a4d79c21-2ccf-4b55-8e44-0ed6ddd03840" />
+
+
+
+
 ## Задание 4
 
 1. Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 1. В качестве решения задания приведите листинг этого файла.
+
+https://github.com/olegveselov1984/10-monitoring-03-grafana/blob/05e0394e60a76868c2fd7755dabc12ff3ada608a/JSON%20Model
 
 ---
 
